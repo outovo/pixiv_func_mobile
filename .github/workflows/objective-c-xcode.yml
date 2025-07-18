@@ -1,0 +1,5 @@
+            - name: flutter-sortify
+  # You may pin to the exact commit or the version.
+  # uses: mafreud/flutter-sortify@31ffa5b8cb0f125d8acbd103bb86295c1ca26d28
+  uses: mafreud/flutter-sortify@v0.2.10
+          
